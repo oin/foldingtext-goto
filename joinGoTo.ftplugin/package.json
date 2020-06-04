@@ -1,0 +1,10 @@
+{
+    "name": "Go To panel",
+    "version": "1.0.0",
+    "description": "Sublime-like 'go to' panel",
+    "engines": {
+        "foldingtext": ">=2.0.0",
+        "taskpaper": ">=3.0.0"
+    }
+}
+
